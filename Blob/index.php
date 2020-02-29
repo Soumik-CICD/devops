@@ -6,9 +6,9 @@
 <head>
 
 </head>
-<body id="img1" background="images/9.jpg">
+<body id="img1" background="images/12.jpg">
 <?php
- 
+
 ini_set("display_errors", "0");
   error_reporting(E_ALL);
 
@@ -72,7 +72,7 @@ catch(Exception $e)
 	</div>
  <br><br>
  <div class="col-sm-4">
-	
+
 	</div>
 	<div class="col-sm-4">
 	<input type='submit' name='click' value='Submit' class="btn btn-primary"/>
